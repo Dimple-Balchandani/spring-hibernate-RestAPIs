@@ -1,0 +1,3 @@
+INSERT INTO `privileges` VALUES (1,1,1,'admin',1,1),(2,1,1,'user',1,1),(3,1,1,'provider',1,1),(4,1,1,'shipper',1,1);
+INSERT INTO `status` VALUES (1,'Ordered','Order has been successful.'),(2,'Approved','Order is approved by provider.'),(3,'Shipped','Order has been shipped.'),(4,'Delivered','Order has been delivered.');
+INSERT INTO `category` VALUES (1,'Mobile Description','Mobile',NULL),(2,'Bag Description','Bag',NULL),(3,'Watch Description','Watch',NULL),(4,'Laptop Description','Laptop',NULL);

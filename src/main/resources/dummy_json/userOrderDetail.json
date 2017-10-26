@@ -1,0 +1,61 @@
+{
+	"orderId": "O265653265235tkj",
+	"orderStatus": "In Progress",
+	"orderPlacedDate": "1471949786",
+	"trackingDetail": [
+		{
+			"trackingStep": "0",
+			"trackingStepName": "Order Confirm",
+			"statusDetail": "Your Order Confirm At 2nd Sep",
+			"status": "0"
+		},
+		{
+			"trackingStep": "1",
+			"trackingStepName": "Pick Up Order",
+			"statusDetail": "Your Order Confirm At 2nd Sep",
+			"status": "0"
+		},
+		{
+			"trackingStep": "2",
+			"trackingStepName": "In Progress",
+			"statusDetail": "you order is in progress, your bag wheels are fixed, now currently we fixing your bag zips",
+			"status": "1"
+		},
+		{
+			"trackingStep": "3",
+			"trackingStepName": "Dispatch",
+			"statusDetail": "",
+			"status": "2"
+		},
+		{
+			"trackingStep": "4",
+			"trackingStepName": "Delivered",
+			"statusDetail": "",
+			"status": "2"
+		}
+	],
+	"orderSummary": {
+		"orderType": "bags",
+		"orderPlacedDate": "1471949786",
+		"deliveryTime": "1472216789",
+		"orderDesc": "bag trolly is broken",
+		"orderStatus": "delivered"
+	},
+	"shipping details": {
+		"CustomerName": "Gaurav",
+		"addressLineOne": "M-20 , Karol Bagh",
+		"addressLineTwo": "Near Jeet Hotel",
+		"landMark": "",
+		"city": "New Delhi",
+		"pinCode": "110025",
+		"phone": "9876544322"
+	},
+	"Payment": {
+		"totalAmount": "Rs 250",
+		"isDiscountAvailable": "true",
+		"handlingCharge": "Free",
+		"discountAmount": "50",
+		"sub Total": "Rs 200",
+		"Payment Method": "cash on delivery"
+	}
+}
